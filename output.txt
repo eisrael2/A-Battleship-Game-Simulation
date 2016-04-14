@@ -1,0 +1,18 @@
+Strategy: Horizontal_Sweep_Strategy
+Number of cells searched: 429
+Carrier found: (0, 0) to (0, 4) Submarine found: (4, 15) to (4, 17)
+Strategy: Diagonally_Search_Stratergy
+Number of cells searched: 251
+Carrier found: (0, 0) to (0, 4) Submarine found: (4, 11) to (4, 13)
+Strategy: Random_Search_Strategy
+Number of cells searched: 1848
+Carrier found: (0, 0) to (0, 4) Submarine found: (4, 15) to (4, 17)
+Strategy: Horizontal_Sweep_Strategy
+Number of cells searched: 330
+Carrier found: (5, 9) to (5, 13) Submarine found: (20, 5) to (20, 7)
+Strategy: Diagonally_Search_Stratergy
+Number of cells searched: 584
+Carrier found: (5, 4) to (5, 8) Submarine found: (20, 13) to (20, 15)
+Strategy: Random_Search_Strategy
+Number of cells searched: 1965
+Carrier found: (5, 9) to (5, 13) Submarine found: (20, 5) to (20, 7)
