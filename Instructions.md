@@ -24,15 +24,3 @@ Your battleship search class must systematically use each of the search strategi
 For each “game” output the following to a file called output.txt (cell counts are not accurate!).   
 
 Game 1: Strategy: Horizontal Sweep Number of cells searched:  240 Carrier found: (0,0) to (0,4)  Submarine found: (4,15) to (4,17) Strategy: Random Search Number of Cells searched: 490 Carrier found: (0,0) to (0,4)  Submarine found: (4,15) to (4,17) Strategy: Strategic Search Number of Cells searched: 110 Carrier found: (0,0) to (0,4)  Submarine found: (4,15) to (4,17)  
-
-5. Repeat the game 
-Repeat the game for each row in the input file. 
-
-6. What and how to submit? 
-A. In your individual SVN folder create a folder called “Homework1”.  Create a subfolder called “Source” and place the source code into it. B. Directly into Homework1 commit the following: a. An executable jar file 
-b. Your UML class diagram sketch. c. Your one paragraph.  
-
-Hints: 
-There are a number of functions that your program is going to have to perform. 
-1. Reading data from a file.  There are many ways to do this.  You could use one of the approaches shown here: http://stackoverflow.com/questions/2788080/reading-a-text-file-in-java We’ll look at some examples in the lab too.  
-2. Once you read in a line you’ll have parse the line.  You could use StringTokenizer and pass it two arguments (i) the string to parse, and (ii) the delimiters. We’ll look at some examples in class on Tuesday. 
