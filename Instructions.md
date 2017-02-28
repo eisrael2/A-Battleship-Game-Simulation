@@ -1,4 +1,4 @@
-# Battleship-Diagram
+# A Battleship Game Simulation
 First Assignment In Object Oriented Software Design
 
 Objective: Write a Java program that reads in a text file containing the coordinates of two battleships.  Implement three different strategies (using the strategy design pattern) for locating the battleships. 
